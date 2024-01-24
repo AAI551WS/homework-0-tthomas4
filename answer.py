@@ -9,7 +9,7 @@ def hello_world():
 
     # Write a Python statement to print Hello, World!
     # I've never used Python and coding isn't my speciality. Here to learning! 
-    # I don't understand how to write simple code to add variable a and b below. 
+    # I'm not sure if I did the simple code below correctly.  
 
 def add(a,b): 
 
